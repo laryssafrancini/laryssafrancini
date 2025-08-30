@@ -15,6 +15,19 @@
 
 ---
 
+---
+
+## 🚀 Objetivos
+- 🌟 Me desenvolver como **Dev Front-end**  
+- 🔗 Aprimorar habilidades em **Python e automações**  
+- 📈 Trabalhar com **análise de dados e tecnologia aplicada à gestão**  
+
+---
+
+✨ *Sempre aberta a novas oportunidades e conexões na área de tecnologia!*  
+
+---
+
 ## 💻 Tecnologias que mais gosto e estudo
 
 <div align="center">
@@ -28,18 +41,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
 
 </div>
-
----
-
-## 🚀 Objetivos
-- 🌟 Me desenvolver como **Dev Front-end**  
-- 🔗 Aprimorar habilidades em **Python e automações**  
-- 📈 Trabalhar com **análise de dados e tecnologia aplicada à gestão**  
-
----
-
-✨ *Sempre aberta a novas oportunidades e conexões na área de tecnologia!*  
-
 
 
 
