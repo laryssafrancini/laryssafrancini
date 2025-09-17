@@ -18,7 +18,8 @@
 ---
 
 ## 🚀 Objetivos
-- 🌟 Me desenvolver como **Dev Front-end**  
+- 🌟 Me desenvolver como **Dev Front-end**
+- 👩‍💻 Conseguir uma oportunidade na área de TI e crescer em minha carreira profissional.
 - 🔗 Aprimorar habilidades em **Python e automações**  
 - 📈 Trabalhar com **análise de dados e tecnologia aplicada à gestão**  
 
