@@ -17,7 +17,7 @@
 
 ## 🚀 Objetivos
 - 🌟 Me desenvolver como **Dev Front-end**  
-- 👩‍💻 Conseguir uma oportunidade na área de TI e crescer na carreira  
+- 👩‍💻 Conseguir oportunidades na área de TI  
 - 🔗 Aprimorar habilidades em **Python e automações**  
 - 📈 Criar dashboards e soluções com dados para tomada de decisão  
 
@@ -39,9 +39,8 @@
 
 ---
 
-## 📊 Estatísticas de GitHub
+## 📊 Linguagens mais usadas
 
-![Laryssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=laryssafrancini&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryssafrancini&layout=compact&theme=radical)  
 
 ---
@@ -51,31 +50,22 @@
 ### Consulta Bancária
 ![Consulta Bancaria](img/sit_consultbanca.png)  
 Projeto em **Java** simulando consultas de saldo e movimentações bancárias. Aplicação prática de **POO** e experiência funcional para operações básicas.  
-🔗 [Veja o projeto no GitHub](https://github.com/laryssafrancini/consulta-bancaria)  
+🔗 [Veja no GitHub](https://github.com/laryssafrancini/consulta-bancaria)  
 
 ### Sistema de Clientes e Descontos
 ![Sistema de Clientes](img/oferta_desconto.png)  
 Programa em **C** que aplica descontos automáticos com base em histórico de compras.  
-🔗 [Veja o projeto no GitHub](https://github.com/laryssafrancini/sistema-clientes)  
+🔗 [Veja no GitHub](https://github.com/laryssafrancini/sistema-clientes)  
 
 ### Formulário de Cadastro Interativo
 ![Formulário](img/Formulário.png)  
-Desenvolvido com **HTML, CSS e JS**, focando em **UX/UI**: validação de campos, feedback visual, layout responsivo e animações.  
-🔗 [Veja o projeto no GitHub](https://github.com/laryssafrancini/formulario-interativo)  
-
----
-
-## 🌟 Skills Gráficas (Progresso)
-
-**HTML/CSS:** ![HTML/CSS](https://img.shields.io/badge/HTML_CSS-85%25-brightgreen)  
-**JavaScript:** ![JS](https://img.shields.io/badge/JavaScript-75%25-yellow)  
-**React:** ![React](https://img.shields.io/badge/React-65%25-blue)  
-**Python:** ![Python](https://img.shields.io/badge/Python-70%25-lightgrey)  
-**Java:** ![Java](https://img.shields.io/badge/Java-60%25-orange)  
+Desenvolvido com **HTML, CSS e JS**, focando em **UX/UI**: validação de campos, feedback visual e layout responsivo.  
+🔗 [Veja no GitHub](https://github.com/laryssafrancini/formulario-interativo)  
 
 ---
 
 ✨ *Sempre aberta a novas oportunidades e conexões na área de tecnologia!*  
+
 
 
 
