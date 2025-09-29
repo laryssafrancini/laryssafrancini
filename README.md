@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou ![Laryssa Francini](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=800080&center=true&width=600&height=80&lines=Laryssa+Francini)
+# 👋 Olá, eu sou ![Laryssa Francini](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=800080&center=true&width=600&height=80&lines=Laryssa+Francini)
+
 
 🌱 **Evoluindo sempre em programação** 🙏👩‍💻  
 💖 **Paixões:** Front-end, automações com Python e dashboards de dados  
