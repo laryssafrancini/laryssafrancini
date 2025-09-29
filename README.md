@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Laryssa Francini  
+# 👋 Olá, eu sou ![Laryssa Francini](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=ff69b4&center=true&vCenter=true&width=600&height=80&lines=Laryssa+Francini)
 
 🌱 **Evoluindo sempre em programação** 🙏👩‍💻  
 💖 **Paixões:** Front-end, automações com Python e dashboards de dados  
@@ -37,44 +37,6 @@
 ## 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryssafrancini&layout=compact&theme=radical)  
-
----
-
-## 💡 Projetos Destaque
-
-<div align="center">
-
-<!-- Card Projeto 1 -->
-<div style="display:inline-block; width:300px; margin:10px; border-radius:10px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-<img src="img/sit_consultbanca.png" width="100%" alt="Consulta Bancária"/>
-<div style="padding:10px; background:#f4f4f4;">
-<h3>Consulta Bancária</h3>
-<p>Projeto em <b>Java</b> simulando consultas de saldo e movimentações bancárias com POO.</p>
-<a href="https://github.com/laryssafrancini/consulta-bancaria" target="_blank">Ver no GitHub</a>
-</div>
-</div>
-
-<!-- Card Projeto 2 -->
-<div style="display:inline-block; width:300px; margin:10px; border-radius:10px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-<img src="img/oferta_desconto.png" width="100%" alt="Sistema de Clientes"/>
-<div style="padding:10px; background:#f4f4f4;">
-<h3>Sistema de Clientes e Descontos</h3>
-<p>Programa em <b>C</b> aplicando descontos automáticos baseados no histórico de compras.</p>
-<a href="https://github.com/laryssafrancini/sistema-clientes" target="_blank">Ver no GitHub</a>
-</div>
-</div>
-
-<!-- Card Projeto 3 -->
-<div style="display:inline-block; width:300px; margin:10px; border-radius:10px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-<img src="img/Formulário.png" width="100%" alt="Formulário Interativo"/>
-<div style="padding:10px; background:#f4f4f4;">
-<h3>Formulário Interativo</h3>
-<p>HTML, CSS e JS, focando em UX/UI: validação, feedback visual e layout responsivo.</p>
-<a href="https://github.com/laryssafrancini/formulario-interativo" target="_blank">Ver no GitHub</a>
-</div>
-</div>
-
-</div>
 
 ---
 
