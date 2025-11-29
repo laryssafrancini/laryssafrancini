@@ -35,12 +35,6 @@
 
 ---
 
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryssafrancini&layout=compact&theme=radical)  
-
----
-
 ✨ *Sempre aberta a novas oportunidades e conexões na área de tecnologia!*  
 
 
